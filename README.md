@@ -1,8 +1,8 @@
 ## Introduction (by YMGoh)
 
-This repository was forked from rdpeng, and created specifically for Week 1 assignment for the Exploratory Data Analysis Module
+This repository was forked from rdpeng, and created specifically for Week 1 assignment for the Exploratory Data Analysis Module. There are 4 R script files and 4 png files
 
-## Introduction (The original instruction)
+## Introduction (The original instructions)
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
