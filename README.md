@@ -1,6 +1,8 @@
-## Introduction 
+## Introduction (by YMGoh)
 
 This repository was forked from rdpeng, and created specifically for Week 1 assignment for the Exploratory Data Analysis Module
+
+## Introduction (The original instruction)
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
